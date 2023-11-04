@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/-vyshyvanka/",
+    "build": "vite build --base=/html_css_98_Alex-Fox312/",
     "preview": "vite preview"
   },
   "devDependencies": {
